@@ -341,5 +341,8 @@ li {
     .apresentacao__conteudo {
         width: auto;
     }
+    .apresentacao__conteudo_curriculo {
+        width: auto;
+    }
 
 }
